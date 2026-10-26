@@ -1,5 +1,5 @@
 ---
-name: readme-gen
+name: readme
 description: Generates or updates a README.md file from the project structure. Use 
   when the user asks to write or udpate a README, document the project, or 
   says "generate README" or "update README."
